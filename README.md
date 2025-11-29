@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="UTF-8">
-        <title>Страны Азии</title>
+        <meta charset="UTF-8"
         <link rel="stylesheet" href="style5.css">
     </head>
     <body>
